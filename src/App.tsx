@@ -1,4 +1,4 @@
-User
+
 // import React from 'react';
 import TickIcon from '../src/assets/TickIcon.svg';
 import Icon1 from '../src/assets/Icon1.svg';
