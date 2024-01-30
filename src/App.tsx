@@ -16,14 +16,14 @@ function App() {
         <h1 className='text-3xl lg:text-5xl font-extrabold lg:text-center text-[#F7FAFC] leading-[39px]'>
           Simple pricing for your business
         </h1>
-        <p className='lg:text-center text-[#F7FAFC] text-lg lg:text-2xl font-medium mt-4 leading-8 lg:pt-4'>
+        <p className='lg:text-center text-[#F7FAFC] text-lg lg:text-2xl font-medium mt-5 leading-8 lg:pt-4'>
           Plans that are carefully crafted to suit your business.
         </p>
       </div>
 
-      <div className='flex justify-center flex-col lg:flex-row -mt-32 mr-6 ml-5  '>
+      <div className='flex justify-center flex-col lg:flex-row -mt-32 mr-6 ml-5 '>
         {/* Left side box */}
-        <div className='flex flex-col justify-center items-center shrink-0 lg:rounded-r-none  bg-gray-200 rounded-xl lg:rounded-l-xl shadow-lg lg:min-w-[300px]'>
+        <div className='flex flex-col justify-center items-center shrink-0 lg:rounded-r-none  bg-gray-200 rounded-xl lg:rounded-l-xl shadow-lg lg:min-w-[300px] '>
 
           <div className='text-2xl font-extrabold text-[#171923] leading-8 pt-[35px] '>Premium PRO</div>
           <div className='text-5xl lg:text-5xl font-extrabold text-[#171923] leading-[48px] pt-4'>$329</div>
